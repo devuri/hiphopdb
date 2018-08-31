@@ -78,7 +78,7 @@ B-Legit
 B-Real
 B.G.
 B.G. Knocc Out
-B.o.B[1]
+B.o.B
 Baby Bash
 Baby Boy da Prince
 Baby D
@@ -98,7 +98,7 @@ Beenzino
 Benzino
 Bhad Bhabie
 Big Boi
-Big Daddy Kane[1]
+Big Daddy Kane
 Big Ed
 Big Gipp
 Big Hawk
@@ -152,7 +152,7 @@ Booba
 Boondox
 Boosie Badazz
 Boss
-Bow Wow[1]
+Bow Wow
 Braille
 Brandun DeShay
 Brianna Perry
@@ -210,7 +210,7 @@ Chiddy Bang
 Chief Keef
 Childish Gambino
 Chill Rob G
-Chingy[1]
+Chingy
 Chingo Bling
 Chino XL
 Chinx
@@ -229,7 +229,7 @@ Classified
 Clinton Sparks
 Clyde Carson
 Cold 187um
-Common[1]
+Common
 Consequence
 Cool Breeze
 Cool C
@@ -328,7 +328,7 @@ DJ Shadow
 DJ Yella
 DMC
 DLOW
-DMX[1]
+DMX
 Doap Nixon
 Doe B
 Dok2
@@ -370,7 +370,7 @@ El-P
 Elephant Man
 Elzhi
 Emcee N.I.C.E.
-Eminem[1]
+Eminem
 Eric Biddines
 Erick Arc Elliott
 Erick Sermon
@@ -443,7 +443,7 @@ Ganksta N-I-P
 Gary
 Gee Money
 General Woo
-Ghostface Killah[1]
+Ghostface Killah
 Giggs
 Gilbere Forte
 Glasses Malone
@@ -454,7 +454,7 @@ Gorilla Zoe
 Grafh
 Grand Puba
 Grandmaster Caz
-Grandmaster Flash[1]
+Grandmaster Flash
 Greydon Square
 Grieves
 Gucci Mane
@@ -463,7 +463,7 @@ Guerilla Black
 Guilty Simpson
 Gunna
 Gunplay
-Guru[1]
+Guru
 GZA
 Half a Mill
 Hard Kaur
@@ -491,7 +491,7 @@ Hussein Fatal
 Ice Cube
 I-20
 Iamsu!
-Ice Cube[1]
+Ice Cube
 Ice Prince
 Ice-T[2]
 IDK
@@ -541,7 +541,7 @@ Jay Critch
 Jay Electronica
 Jay Park
 Jay Rock
-Jay Z[1]
+Jay Z
 Jayo Felony
 Jaz-O
 Jazz Cartier
@@ -591,7 +591,7 @@ K7
 Kafani
 Kam
 Kangol Kid
-Kanye West[1]
+Kanye West
 Kap G
 Kardinal Offishall
 Kastro
@@ -681,7 +681,7 @@ Lil Durk
 Lil Eazy-E
 Lil Flip
 Lil Herb
-Lil Jon[1]
+Lil Jon
 Lil Mama
 Lil Peep
 Lil Phat
@@ -693,7 +693,7 @@ Lil Scrappy
 Lil Skies
 Lil Twist
 Lil Uzi Vert
-Lil Wayne[1]
+Lil Wayne
 Lil Wyte
 Lil Xan
 Lil Yachty
@@ -709,7 +709,7 @@ Lil' Troy
 Lil' Wil
 Lin Que
 Lisa Lopes
-LL Cool J[1]
+LL Cool J
 Lloyd Banks
 Locksmith
 Logic
@@ -726,10 +726,10 @@ Lovebug Starski
 LoveRance
 Lowkey
 LRoc
-Ludacris[1]
+Ludacris
 Luis Resto
 Luni Coleone
-Lupe Fiasco[1]
+Lupe Fiasco
 Luther Campbell
 MC Lyte
 Melle Mel
@@ -769,7 +769,7 @@ Mase
 Masspike Miles
 Masta Ace
 Masta Killa
-Master P[1]
+Master P
 Master Shortie
 Matt Toka
 Max B
@@ -778,7 +778,7 @@ MC Breed
 MC Davo
 MC Eiht
 MC Frontalot
-MC Hammer[1]
+MC Hammer
 MC Jin
 MC Lyte
 MC Mong
@@ -813,10 +813,10 @@ Mike Stud
 Mike Will Made It
 Mike Zombie
 Milo
-Mims[1]
+Mims
 Mino
 Miryo
-Missy Elliott[1]
+Missy Elliott
 Mista Grimm
 Mistah F.A.B.
 Mister Cee
@@ -848,7 +848,7 @@ NBA YoungBoy
 N.O. Joe
 N.O.R.E.
 Napoleon
-Nas[1]
+Nas
 Nate Dogg
 Nature
 Nav
@@ -858,7 +858,7 @@ Needlz
 Nelly
 NF
 Nick Cannon
-Nicki Minaj[1]
+Nicki Minaj
 Nicky da B
 Nicole Wray
 Nikki D
@@ -918,7 +918,7 @@ Phyno
 Pill
 Pimp C
 Pink Guy
-Pitbull[1]
+Pitbull
 Planet Asia
 Planetary
 Plies
@@ -991,7 +991,7 @@ Rich Homie Quan
 Rich The Kid
 Richie Rich
 Rick Rock
-Rick Ross[1]
+Rick Ross
 Rico Love
 Rico Nasty
 Riff Raff
@@ -1036,7 +1036,7 @@ San Quinn
 Sarkodie
 Sauce Money
 Savage
-Scarface[1]
+Scarface
 Schoolboy Q
 Schoolly D
 Scott Storch
@@ -1097,7 +1097,7 @@ Smoke DZA
 Smokepurpp
 Smooth
 Smoothe da Hustler
-Snoop Dogg[1]
+Snoop Dogg
 Snootie Wild
 Snow Tha Product
 Soce, the elemental wizard
@@ -1154,7 +1154,7 @@ T-Nutty
 T-Pain
 T-Wayne
 T. Mills
-T.I.[1]
+T.I.
 T.O.P
 Tabi Bonney
 Tablo
@@ -1214,7 +1214,7 @@ Trip Lee
 Trippie Redd
 Tristan Wilds
 Troy Ave
-Tupac Shakur[1]
+Tupac Shakur
 Turf Talk
 Turk
 Tweedy Bird Loc
@@ -1269,7 +1269,7 @@ Willow Smith
 Willy Northpole
 Wish Bone
 Witchdoctor
-Wiz Khalifa[1]
+Wiz Khalifa
 Wizkid
 Wrekonize
 Wyclef Jean
